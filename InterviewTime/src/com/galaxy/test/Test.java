@@ -11,6 +11,7 @@ public class Test {
 			//for(int j=i+1; j<input.length; j++) {
 				if(input[i]==inputvalue){
 					int temp=input[i];
+					System.out.println("Msg");
 					
 					
 				}
